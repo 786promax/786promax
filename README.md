@@ -4,7 +4,7 @@
 
 I'm Aatif, a passionate Python Developer with over 2 years of experience in creating innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aatif.;I+like+to+code+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal;I'm+a+member+of+Anime+Runner+Development+team.;)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aatif.;I+like+to+code+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal;I'm+a+member+of+Anime+Runner+Development+team.;)]
 
 **🚀 About Me**
 
