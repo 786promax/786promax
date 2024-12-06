@@ -20,7 +20,6 @@ I'm Aatif, a passionate Python Developer with over 2 years of experience in crea
 - **Tools**: Git, Bash, VS Code
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_])([https://www.youtube.com/@KurulusOsmanUrduatv])
 
 
 <!-- Sci-Fi Font Styling -->
