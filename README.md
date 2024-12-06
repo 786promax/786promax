@@ -20,10 +20,8 @@ I'm Aatif, a passionate Python Developer with over 2 years of experience in crea
 - **Tools**: Git, Bash, VS Code
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_](https://www.youtube.com/@KurulusOsmanUrduatv))
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_](https://www.youtube.com/@KurulusOsmanUrduatv)
 
-
-Feel free to reach out to me for freelancing projects related to Discord bots. I'm open to collaboration and eager to help you build and improve your Discord applications!
 
 <!-- Sci-Fi Font Styling -->
 <div style="font-family: 'Courier New', monospace; font-size: 24px; text-align: center; margin-top: 50px;">
