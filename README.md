@@ -4,7 +4,7 @@
 
 I'm Aatif, a passionate Python Developer with over 2 years of experience in creating innovative solutions.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Supermuctec.;I+like+to+code+Discord+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal;I'm+a+member+of+Anime+Runner+Development+team.;I+use+Arch+BTW...;)](https://discord.com/oauth2/authorize?client_id=1072462964789096538&permissions=595374238465143&integration_type=0&scope=bot)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=16&vCenter=true&height=16&lines=Hi+there%2C+I'm+Aatif.;I+like+to+code+bots.;I+make+GUIs.;I+Like+To+Play+Minecraft+Lifesteal;I'm+a+member+of+Anime+Runner+Development+team.;)]
 
 **🚀 About Me**
 
@@ -20,7 +20,7 @@ I'm Aatif, a passionate Python Developer with over 2 years of experience in crea
 - **Tools**: Git, Bash, VS Code
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_](https://www.youtube.com/@KurulusOsmanUrduatv)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)]([https://www.youtube.com/@_])(https://www.youtube.com/@KurulusOsmanUrduatv)
 
 
 <!-- Sci-Fi Font Styling -->
